@@ -1,0 +1,16 @@
+sample,fastq_1,fastq_2,strandedness
+WT_0_3,./reads/JR2707_R1.fastq.gz,./reads/JR2707_R2.fastq.gz,unstranded
+WT_0_1,./reads/JR2708_R1.fastq.gz,./reads/JR2708_R2.fastq.gz,unstranded
+WT_0_2,./reads/JR2710_R1.fastq.gz,./reads/JR2710_R2.fastq.gz,unstranded
+WT_12_3,./reads/JR2758_R1.fastq.gz,./reads/JR2758_R2.fastq.gz,unstranded
+WT_12_1,./reads/JR2762_R1.fastq.gz,./reads/JR2762_R2.fastq.gz,unstranded
+WT_12_2,./reads/JR2765_R1.fastq.gz,./reads/JR2765_R2.fastq.gz,unstranded
+WT_24_3,./reads/JR2730_R1.fastq.gz,./reads/JR2730_R2.fastq.gz,unstranded
+WT_24_2,./reads/JR2732_R1.fastq.gz,./reads/JR2732_R2.fastq.gz,unstranded
+WT_24_1,./reads/JR2741_R1.fastq.gz,./reads/JR2741_R2.fastq.gz,unstranded
+WT_48_1,./reads/JR2731_R1.fastq.gz,./reads/JR2731_R2.fastq.gz,unstranded
+WT_48_3,./reads/JR2737_R1.fastq.gz,./reads/JR2737_R2.fastq.gz,unstranded
+WT_48_2,./reads/JR2738_R1.fastq.gz,./reads/JR2738_R2.fastq.gz,unstranded
+WT_96_2,./reads/JR2706_R1.fastq.gz,./reads/JR2706_R2.fastq.gz,unstranded
+WT_96_1,./reads/JR2715_R1.fastq.gz,./reads/JR2715_R2.fastq.gz,unstranded
+WT_96_3,./reads/JR2716_R1.fastq.gz,./reads/JR2716_R2.fastq.gz,unstranded

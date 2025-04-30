@@ -1,0 +1,13 @@
+*.nextflow/
+*genome.fa
+*.fasta
+*.fastq
+*.gtf
+fastqc/
+pipeline_info/
+trimgalore/
+*fastq.gz
+work/
+.nextflow*
+*.html
+.DS_Store
